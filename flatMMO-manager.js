@@ -2,7 +2,7 @@
 // @name         FlatMMO Manager
 // @namespace    https://github.com/cskoghed
 // @version      2025-10-30
-// @description  try to take over the world!
+// @description  Automation helpers for FlatMMO tasks and grinding.
 // @author       cskoghed
 // @match        https://flatmmo.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
