@@ -2,7 +2,7 @@
 // @name         FlatMMO Manager
 // @namespace    degod.flatmmoManager
 // @version      2025-10-30
-// @description  Loader script for FlatMMO Manager
+// @description  try to take over the world!
 // @author       You
 // @match        https://flatmmo.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
