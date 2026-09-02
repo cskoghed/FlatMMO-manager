@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         FlatMMO Manager
-// @namespace    degod.flatmmoManager
+// @namespace    https://github.com/cskoghed
 // @version      2025-10-30
-// @description  try to take over the world!
-// @author       You
+// @description  Automation helpers for FlatMMO tasks and grinding.
+// @author       cskoghed
 // @match        https://flatmmo.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @updateURL    https://raw.githubusercontent.com/cskoghed/FlatMMO-manager/main/flatMMO-manager.js
+// @downloadURL  https://raw.githubusercontent.com/cskoghed/FlatMMO-manager/main/flatMMO-manager.js
 // @grant        none
 // ==/UserScript==
 
