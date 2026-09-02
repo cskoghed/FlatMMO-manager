@@ -2,7 +2,7 @@
 
 FlatMMO Manager is a Tampermonkey userscript that automates repetitive tasks in [FlatMMO](https://flatmmo.com/), such as mining loops, pickpocketing, and basic login/character-loading actions.
 
-[![Install in Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-00485B?logo=tampermonkey&logoColor=white)](https://github.com/cskoghed/FlatMMO-manager/raw/main/flatMMO-manager.js)
+[![Install in Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-00485B?logo=tampermonkey&logoColor=white)](https://github.com/cskoghed/FlatMMO-manager/raw/main/flatMMO-manager.user.js)
 
 ## Key features
 
